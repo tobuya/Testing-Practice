@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This is an exercise repository for a few practical test for JavaScript functions using the Jest Library. Here, I have followed the AAA pattern and used the TDD approach.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobuya/Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobuya/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/tobuya/Testing-Practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
